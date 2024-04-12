@@ -1,5 +1,8 @@
 pytest==8.1.1
+fire
 pytest-cov==5.0.0
 pylint==3.1.0
 black==24.3.0
 ipython==8.23.0
+textblob
+wikipedia
